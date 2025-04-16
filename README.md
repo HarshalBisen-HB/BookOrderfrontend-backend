@@ -24,7 +24,8 @@ The Book Order application allows users to browse, order, and manage books. This
 
 - Node.js
 - Express.js (for building the API)
-- MongoDB (database)
+- Mysql (database)
+  
 
 ## The UI Looks Like >>
 ![Screenshot 2024-12-29 150854](https://github.com/user-attachments/assets/d2d833d1-bef9-43dc-957a-ce6414ccfb6b)
